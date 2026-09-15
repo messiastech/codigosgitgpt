@@ -1,0 +1,4 @@
+order_id,date,customer,amount
+O001,2026-01-01,Cliente A,120.50
+O002,2026-01-02,Cliente B,80.00
+O003,2026-01-03,Cliente A,49.90
